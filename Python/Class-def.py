@@ -5,8 +5,6 @@ class conta:
         self.numero = numero
         self.saldo = saldo
 
-      
-
 def main():
     c1 = conta (nome, cpf, numero, saldo)
     print(f'Nome do titular da conta: {c1.nome}')
